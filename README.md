@@ -7,15 +7,17 @@ tapdaq ads
 ```sh
 npm install react-native-tapdaq-ad
 ```
+#### or use yarn
+
+```sh
+yarn add react-native-tapdaq-ad
+```
+
 
 ## Usage
 
 ```js
 import Tapdaq from "react-native-tapdaq-ad";
-
-// ...
-
-const result = await Tapdaq.multiply(3, 7);
 ```
 
 ## Contributing
