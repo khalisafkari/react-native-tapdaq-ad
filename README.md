@@ -1,17 +1,17 @@
-# react-native-tapdaq
+# react-native-tapdaq-ad
 
 tapdaq ads
 
 ## Installation
 
 ```sh
-npm install react-native-tapdaq
+npm install react-native-tapdaq-ad
 ```
 
 ## Usage
 
 ```js
-import Tapdaq from "react-native-tapdaq";
+import Tapdaq from "react-native-tapdaq-ad";
 
 // ...
 
